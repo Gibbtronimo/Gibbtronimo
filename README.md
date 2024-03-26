@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Gibbtronimo
 - 👀 I’m interested in Wireless/IoT/Network Security/AWS
-- 🌱 I’m currently learning CyberSecurity at Texas A&M University of Corpus Christi
+- 🌱 B.S. Computer Science - CyberSecurity and Infrastructure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   salinas.ryan00@gmail.com
-  IG: @lightskinlatino_
 
 
 <!---
