@@ -3,7 +3,7 @@
 - 🌱 B.S. Computer Science - CyberSecurity and Infrastructure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  salinas.ryan00@gmail.com
+  rsalinas15@islander.tamucc.edu
 
 
 <!---
