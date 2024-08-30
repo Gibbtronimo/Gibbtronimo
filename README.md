@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Gibbtronimo
-- 👀 I’m interested in Wireless/IoT/Network Security/AWS
+- 👀 I’m interested in Software Engineering - Front End/Full Stack
 - 🌱 B.S. Computer Science - CyberSecurity and Infrastructure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  rsalinas15@islander.tamucc.edu
+  rsalinas@molecularnet.com
 
 
 <!---
