@@ -59,9 +59,9 @@ I view AI as a **force multiplier for engineering and learning**, not a replacem
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** [linkedin.com/in/ryan-salinas](https://linkedin.com/in/ryan-salinas)  
+- **LinkedIn:** [linkedin.com/in/ryan-salinas-islander](https://linkedin.com/in/ryan-salinas-islander)  
 - **Portfolio (Coming Soon):** ryan-salinas.dev  
-- **Email:** ryan.salinas.dev@outlook.com  
+- **Email:** salinas.ryan00@gmail.com 
 
 ---
 
